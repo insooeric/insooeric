@@ -4,6 +4,7 @@
 
 <p align="center">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insooeric" />
+  I do full stack development!
 </p>
 <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
