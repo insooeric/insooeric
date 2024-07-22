@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Eric Son</h1>
-  I do full stack development!
+  I do full-stack development.
 </div>
 
 <p align="center">
