@@ -19,10 +19,10 @@
   </div>
 </div>
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+<!-- <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
   <img alt="Top Langs" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric" />
   <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son" />
-</div>
+</div> -->
 
 </p>
 
