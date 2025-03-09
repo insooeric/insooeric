@@ -20,7 +20,7 @@
 </div>
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
   <img alt="Statistic" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric&Items=ASP.NET,JavaScript,C%23,TypeScript" />
-  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son" />
+  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=2" />
 </div>
 
 <!-- <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
