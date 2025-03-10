@@ -2,6 +2,10 @@
 
 <div align="center">
   <h1>Hi, I'm Insoo Son</h1>
+  <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=2" />
+  <img alt="Statistic" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric&Items=ASP.NET,JavaScript,C%23,TypeScript" />
+</div>
   <div>
     <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_i" />
     <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_do" />
@@ -12,15 +16,12 @@
     ... and I ❤️ arguing with compiler!
   </div>
   <br/>
-  <div>
-    <p align="center">
-      <a href="https://insooeric.github.io/">My Website</a>
-    </p>
-  </div>
-</div>
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=2" />
-  <img alt="Statistic" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric&Items=ASP.NET,JavaScript,C%23,TypeScript" />
+<p align="center">
+  <a href="https://insooeric.github.io/">
+    <img src="assets/Link.svg" alt="Link">
+  </a>
+</p>
+
 </div>
 
 <!-- <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
