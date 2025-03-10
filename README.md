@@ -17,7 +17,7 @@
   </div>
   <br/>
 <p align="center">
-  <a href="https://insooeric.github.io/">
+  <a href="https://insooeric.github.io/" target=”_blank” >
     <img src="assets/Link.svg" alt="Link">
   </a>
 </p>
