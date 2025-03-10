@@ -41,7 +41,7 @@
 </p>
 <p align="center">
     <img alt="NodeJS" src="https://stemma.onrender.com/api/badge?badge=nodejs">
-    <img alt="ReactJS" src="https://stemma.onrender.com/api/badge?badge=react">
+    <img alt="ReactJS" src="https://stemma.onrender.com/api/badge?badge=react&v=2">
     <img alt="Redux" src="https://stemma.onrender.com/api/badge?badge=redux">
     <img alt="jQuery" src="https://stemma.onrender.com/api/badge?badge=jquery">
     <img alt="ExpressJS" src="https://stemma.onrender.com/api/badge?badge=expressjs">
