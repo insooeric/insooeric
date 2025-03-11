@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=2" />
+  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=3" />
   <img alt="Statistic" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric&Items=ASP.NET,JavaScript,C%23,TypeScript" />
 </div>
 <br/>
