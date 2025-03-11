@@ -5,15 +5,16 @@
   <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=2" />
   <img alt="Statistic" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric&Items=ASP.NET,JavaScript,C%23,TypeScript" />
 </div>
-  <div>
-    <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_i" />
-    <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_do" />
-    <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_full_stack" />
-    <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_development" />
-    <br/>
-    I like to delve in and create something useless. 🥔<br/>
-    ... and I ❤️ arguing with compiler!
-  </div>
+<br/>
+<div>
+  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_i" />
+  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_do" />
+  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_full_stack" />
+  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_development" />
+  <br/>
+  I like to delve in and create something useless. 🥔<br/>
+  ... and I ❤️ arguing with compiler!
+</div>
   <br/>
 <p align="center">
   <a href="https://insooeric.github.io/" target=”_blank” >
