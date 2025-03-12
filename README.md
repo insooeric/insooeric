@@ -12,7 +12,7 @@
   <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_full_stack" />
   <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_development" />
   <br/>
-  I like to delve in and create something useless. 🥔<br/>
+  I like to delve in and create anything that catches my mind.<br/>
   ... and I ❤️ arguing with compiler!
 </div>
   <br/>
