@@ -1,9 +1,15 @@
 ﻿﻿![visitors](https://visitor-badge.laobi.icu/badge?page_id=insooeric)
 
 <div align="center">
-  <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=3" />
-  <img alt="Statistic" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric&Items=ASP.NET,JavaScript,C%23,TypeScript" />
+  <div align="center" style="display: grid; grid-template; grid-template: auto / auto auto; gap: 20px;">
+    <div>
+      Hey <img alt="wave" src="assets/wave.gif" style="width: 40px"/>
+    </div>
+    <div>
+      <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son&v=3" />
+    </div>
+
+  <!-- <img alt="Statistic" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric&Items=ASP.NET,JavaScript,C%23,TypeScript" /> -->
 </div>
 <br/>
 <div>
