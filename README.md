@@ -7,10 +7,7 @@
 </div>
 <br/>
 <div>
-  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_i" />
-  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_do" />
-  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_full_stack" />
-  <img alt="Full Stack" src="https://stemma.onrender.com/api/badge?user=insooeric&badge=readme_development" />
+  <h1>I do Full-Stack and ML/AGI Development</h1>
   <br/>
   I like to delve in and create anything that catches my mind.<br/>
   ... and I ❤️ arguing with compiler!
@@ -24,11 +21,6 @@
 
 </div>
 
-<!-- <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <img alt="Top Langs" src="https://stemma.onrender.com/api/UserInfo/statistic?GitHubUserName=insooeric" />
-  <img alt="Profile" src="https://stemma.onrender.com/api/UserInfo/profile?GitHubUserName=insooeric&FullName=Insoo Son" />
-</div> -->
-
 </p>
 
 <p align="center">
@@ -38,6 +30,7 @@
     <img alt="Java" src="https://stemma.onrender.com/api/badge?badge=java">
     <img alt="HTML5" src="https://stemma.onrender.com/api/badge?badge=html">
     <img alt="CSS" src="https://stemma.onrender.com/api/badge?badge=css">
+    <img alt="CSS" src="https://stemma.onrender.com/api/badge?badge=python">
 </p>
 <p align="center">
     <img alt="NodeJS" src="https://stemma.onrender.com/api/badge?badge=nodejs">
