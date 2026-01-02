@@ -1,10 +1,8 @@
 ﻿﻿![visitors](https://visitor-badge.laobi.icu/badge?page_id=insooeric)
-<a href="">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_profile.png">
-    <img alt="profile" src="./assets/light_profile.png">
-  </picture>
-</a>
+<br/>
+![profile](./assets/light_profile.png#gh-light-mode-only)
+![profile](./assets/dark_profile.png#gh-dark-mode-only)
+
 <div>
   <h1>I do Full-Stack and ML/AGI Development</h1>
   <br/>
