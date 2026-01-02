@@ -1,11 +1,11 @@
 ﻿﻿![visitors](https://visitor-badge.laobi.icu/badge?page_id=insooeric)
 
 <br/>
-<a href="">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/insooeric/insooeric/main/assets/dark_profile.png">
-    <img alt="profile" src="https://raw.githubusercontent.com/insooeric/insooeric/main/assets/light_profile.png">
-  </picture>
+
+<br/>
+<a href="YOUR_LINK_HERE">
+  <img src="https://raw.githubusercontent.com/insooeric/insooeric/main/assets/dark_profile.png#gh-dark-mode-only" alt="profile">
+  <img src="https://raw.githubusercontent.com/insooeric/insooeric/main/assets/light_profile.png#gh-light-mode-only" alt="profile">
 </a>
 
 <!-- https://raw.githubusercontent.com/insooeric/insooeric/main/assets/light_profile.png
